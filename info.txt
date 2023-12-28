@@ -1,0 +1,8 @@
+Time taken:
+----------
+
+For coding--> 1 hr
+For RabbitMq issues -->3 hr
+For Final testing -->20 min
+
+Total 4 hour 20 min.
